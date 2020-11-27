@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kheo7VR2oaFCp0kKAUEP0c7ti1oxU3Xkpt3QKsp27k4HuiaCHG+62BEjtu9noCOf/WatwUCpg1UPNl1ig1KlUQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\jajoh\\source\\repos\\dotnet-test-project-2\\dotnet-test-project-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jajoh\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
